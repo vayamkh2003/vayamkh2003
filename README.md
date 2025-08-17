@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @vayamkh2003
 - 👀 I’m interested in ML
 - 🌱 
-- 💞️ I’m looking to collaborate on ...
 - 📫 dm me on @vayam_kh_ 
 
 <!---
